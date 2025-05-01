@@ -186,7 +186,7 @@
 		"innerColor": [255,255,0],
 		
 		"uniqueName": "War of The People",
-		"uniques": ["[-75]% maintenance costs <for [All] units> <when at war>", "[+15]% Production when constructing [Land] units [in all cities] <when at war>","[+15]% [Science]  [in all cities] <when at war>","Nullifies [Culture] [in all cities] <when at war>","Nullifies Growth [in all cities] <when at war>"],
+		"uniques": ["[-75]% maintenance costs <for [All] units> <when at war>", "[+15]% Production when constructing [Land] units [in all cities] <when at war>","[+15]% [Science]  [in all cities] <when at war>","[+20]% [Culture] [in all cities] <when at war>","[+20]% Growth [in all cities] <when at war>","[Military] unit gain the [Experienced troop] promotion,"[+20]% Strength <for [Military] unit>],
 		"cities": ["Moscow","Stalingrad","Leningrad","Kiev","Minsk","Baku","Kharkiv","Riga","Odessa","Grodno","Gomel","Rostov-on-Don","Kursk","Yekaterinburg","Vilnius","Vladivostok","Smolensk","Talinn","Tashkent","Khabarovsk","Chisnau","Sverdlovsk","Tbilisi","Murmansk","Arkhangelsk","Tula","Tashkent","Arkhangelsk","Ashgabat","Astana","Bishkek","Omsk","Yerevan","Saratov","Tula","Irkutsk","Perm","Pskov","Saratov","Irkutsk","Novokuznetsk","Orenburg"],
 		"spyNames": ["Pavel Sudoplatov", "Leopold Trepper", "Nikolai Kuznetsov", "Vasily Zarubin", "Elizaveta Zarubina", "Anatoli Gurevich", "Alexander Radó", "Sándor Radó", "Vladimir Dekanozov", "Stanisław Flato"]
 	},
@@ -224,7 +224,7 @@
 		"innerColor": [54,54,54],	
 		
 		"uniqueName": "Blitzkrieg",
-		"uniques": ["[+10]% Strength <for [Armored] units>","[+1] Movement <for [Armored] units> <when at war>","[+15]% Strength <for [Land] units> <during a Golden Age>","[+1] Movement <for [Land] units> <during a Golden Age>"],
+		"uniques": ["[+20]% Strength <for [Armored] units>","[+2] Movement <for [Armored] units> <when at war>","[+15]% Strength <for [Land] units> <during a Golden Age>","[+1] Movement <for [Land] units> <during a Golden Age>"],
 		"cities": ["Berlin", "Hamburg", "Munich", "Cologne", "Frankfurt", "Stuttgart", "Dresden", "Leipzig", "Nuremberg", "Essen", "Bremen", "Dortmund", "Düsseldorf", "Hannover", "Kiel", "Magdeburg", "Freiburg", "Mannheim", "Karlsruhe", "Aachen", "Chemnitz", "Königsberg", "Mainz", "Rostock", "Würzburg", "Schwerin", "Lübeck", "Kassel", "Saarbrücken", "Heidelberg", "Bonn", "Halle", "Göttingen", "Regensburg", "Potsdam", "Osnabrück", "Erfurt", "Weimar", "Flensburg", "Cottbus", "Braunschweig", "Friedrichshafen", "Oldenburg", "Görlitz", "Jena", "Greifswald", "Passau", "Trier", "Coburg", "Ulm"],
 		"spyNames": ["Richard Sorge", "Elyesa Bazna", "Otto Skorzeny", "Fritz Joubert Duquesne", "Erich Vermehren", "Lothar Witzke", "Arthur Owens", "Duško Popov", "Hans Oster", "Wilhelm Canaris"]
 	},
