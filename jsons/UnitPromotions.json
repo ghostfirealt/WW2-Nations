@@ -45,3 +45,6 @@
 		"uniques": ["No movement cost to pillage","May heal outside of friendly territory"],
 	}
 ]
+        {
+		"name": "Experience Troop",
+		"uniques": ["[+300]% experience gain by combat, [+20%] Strength
